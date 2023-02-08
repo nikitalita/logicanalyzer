@@ -1,0 +1,3 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x15_Odd_Even,PinSocket_2x15_P2.54mm_Horizontal,77.025,-72.2,270.0,top
+U1,Pico,RPi_Pico_SMD_TH,108.185,-88.785,0.0,top
